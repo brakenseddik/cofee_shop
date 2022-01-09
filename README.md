@@ -16,6 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 <p align="center">
-  <img src="screenshots/1.png" width="100%" title="hover text">
+  <img src="https://github.com/brakenseddik/cofee_shop/blob/main/screenshots/1.jpg" width="100%" title="hover text">
   
 </p>
