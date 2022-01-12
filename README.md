@@ -5,6 +5,14 @@ A new Flutter project.
   <img src="https://github.com/brakenseddik/cofee_shop/blob/main/screenshots/1.jpg" width="100%" title="hover text">
   
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/brakenseddik/cofee_shop/blob/main/screenshots/1642009797906.png" width="100%" title="hover text">
+    <img src="https://github.com/brakenseddik/cofee_shop/blob/main/screenshots/1642009797947.png" width="100%" title="hover text">
+  <img src="https://github.com/brakenseddik/cofee_shop/blob/main/screenshots/1642009797992.png" width="100%" title="hover text">
+
+</p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
